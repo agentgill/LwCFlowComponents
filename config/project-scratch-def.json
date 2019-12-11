@@ -1,0 +1,16 @@
+{
+  "orgName": "LwC Flow Components",
+  "edition": "Developer",
+  "features": [
+    "Communities",
+    "ServiceCloud",
+    "ServiceUser",
+    "Sites",
+    "SiteDotCom"
+  ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
